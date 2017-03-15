@@ -1,0 +1,20 @@
+﻿{
+	"BaseUrl": "https://dl.google.com/android/repository/",
+	"OutDir": "/data1/android/repository/",
+	"LogPath": "/data1/androidlog.json",
+	"XmlList": [
+		"repository-12.xml",
+		"repository-11.xml",
+		"addon-6.xml",
+		"addon.xml",
+		"addons_list-1.xml",
+		"addons_list-2.xml",
+		"extras/intel/addon.xml",
+		"glass/addon.xml",
+		"sys-img/android-tv/sys-img.xml",
+		"sys-img/android-wear/sys-img.xml",
+		"sys-img/android/sys-img.xml",
+		"sys-img/google_apis/sys-img.xml",
+		"sys-img/x86/addon-x86.xml"
+	]
+}
